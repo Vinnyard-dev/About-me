@@ -1,7 +1,7 @@
-## Welcome to my profile! 😎
+## Welcome to my profile! 🐁
 
  <div>
-   <a href="https://github.com/kimidree">
+   <a href="https://github.com/Vinnyard-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimidree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimidree&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -23,7 +23,7 @@
   <a href = "mailto:kimidreearts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/kimidree/kimidree/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vinnyard-dev/vinnyard-dev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
