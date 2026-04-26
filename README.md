@@ -12,14 +12,16 @@
   <img align="center" alt="HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://github-readme-stats.vercel.app/api?username=vinnyard-dev&show_icons=true&theme=dracula)">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinnyard-dev&show_icons=true&theme=shadow_red&include_all_commits=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyard-dev&layout=compact&theme=shadow_red&hide_progress=false" />
-</div>
- 
+
  <br>
+
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=cobalt" />
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
