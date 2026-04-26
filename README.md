@@ -1,10 +1,9 @@
 ## Welcome to my profile! 🐁
 
- <div>
-   <a href="https://github.com/Vinnyard-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnyard-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyard-dev&layout=compact&langs_count=6&theme=tokyonight"/>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnyard007&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyard007&layout=compact&theme=cobalt&hide_langs_below=1" />
 </div>
 
 
