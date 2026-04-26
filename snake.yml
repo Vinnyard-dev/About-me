@@ -2,7 +2,7 @@
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ https://github.com/Vinnyard-dev }}
+    github_user_name: ${{ https://github.vinnyard-dev }}
 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
